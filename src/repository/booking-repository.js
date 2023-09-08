@@ -1,4 +1,4 @@
-const { Booking } = require("../models/index)");
+const { Booking } = require("../models/index");
 
 class BookingRepository {
   async create(data) {
